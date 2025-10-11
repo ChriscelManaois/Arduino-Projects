@@ -8,13 +8,13 @@
 
 # Arduino Uno Wiring Diagram
 
-Component	Pin Label	Connect to Arduino Uno Pin
-I2C LCD	    GND	        GND
-I2C LCD	    VCC	        5V
-I2C LCD	    SDA	        A4 (Analog 4)
-I2C LCD	    SCL	        A5 (Analog 5)
-Buzzer	    (Signal)	Digital Pin 8 (You can use any open digital pin)
-Buzzer	    GND	GND
+### Component ---------- Pin Label ---------- Connect to Arduino Uno Pin
+1. I2C LCD----------GND----------GND
+2. I2C LCD----------VCC----------5V
+3. I2C LCD----------SDA----------A4 (Analog 4)
+4. I2C LCD----------SCL----------A5 (Analog 5)
+5. Buzzer----------(Signal)----------Digital Pin 8 (You can use any open digital pin)
+6. Buzzer----------GND----------GND
 
 # Arduino Code with C4 Ticking & BOOM
 
