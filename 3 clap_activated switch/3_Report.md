@@ -6,7 +6,10 @@
 4. 1x 220 Ohm Resistor (for the LED)
 5. Jumper Wires
 6. Breadboard (optional, but makes wiring cleaner)
+  
 
+
+  
 # Arduino Uno Wiring Diagram
 -----------------------------
 

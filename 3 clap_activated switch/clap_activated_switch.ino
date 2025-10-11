@@ -54,3 +54,5 @@ void loop() {
   // Save the current sensor state for the next loop iteration
   lastSoundState = currentSoundState;
 }
+
+// End of code
