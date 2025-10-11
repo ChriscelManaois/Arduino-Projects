@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/chrisceljohnmanaois/Documents/GitHub/Arduino-Projects/3 clap_activated switch",
+      "program": "/Users/chrisceljohnmanaois/Documents/GitHub/Arduino-Projects/3 clap_activated switch/build/Debug/outDebug"
+    }
+  ]
+}

@@ -7,11 +7,12 @@
 5. Jumper Wires
 6. Breadboard (optional, but makes wiring cleaner)
   
-
-
-  
 # Arduino Uno Wiring Diagram
 -----------------------------
+LED/Resistor	→	Arduino Pin
+LED Anode (Longer Leg)	→	Digital Pin 13
+LED Cathode (Shorter Leg)	→	Resistor
+Resistor (other end)	→	GND
 
 # Arduino Code (Clap Switch)
 
